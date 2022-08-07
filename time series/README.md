@@ -7,4 +7,4 @@
 - `datetime` — время записи данных.
 
 ### Используемые библиотеки
-*pandas*
+*pandas, matplotlib, statsmodels, sklearn*
