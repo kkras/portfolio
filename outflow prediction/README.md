@@ -9,4 +9,4 @@
 - `phone` — информация об услугах телефонии.
 
 ### Используемые библиотеки
-*pandas*
+*pandas, numpy, matplotlib, sklearn, lightgbm*
